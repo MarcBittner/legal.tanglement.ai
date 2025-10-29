@@ -1,7 +1,9 @@
+Readme · MD
+Copy
+
 # Tanglement.ai Legal Documents
 
-> **⚖️ Comprehensive legal templates and documentation for Tanglement.ai**  
-> A distributed peer-to-peer network for LLM access optimization
+> **⚖️ Comprehensive legal templates and documentation for Tanglement.ai**
 
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
@@ -26,16 +28,7 @@
 
 ## 🎯 Overview
 
-This repository contains production-ready legal templates and documentation for **Tanglement.ai**, a decentralized LLM routing network. These documents are designed to protect our intellectual property, establish clear business relationships, and ensure compliance with applicable laws.
-
-### What is Tanglement.ai?
-
-Tanglement.ai is a distributed peer-to-peer network that optimizes Large Language Model (LLM) access through:
-- **Multi-provider routing** - Intelligent cost and performance optimization
-- **DHT-based topology** - Scalable P2P architecture using Chord protocol
-- **WireGuard mesh networking** - Secure, efficient communication
-- **Token economics** - Sustainable incentive system
-- **Enterprise-grade security** - End-to-end encryption with Signal Protocol
+This repository contains production-ready legal templates and documentation for **Tanglement.ai**. These documents are designed to protect our intellectual property, establish clear business relationships, and ensure compliance with applicable laws.
 
 ---
 
@@ -471,5 +464,3 @@ These templates were created with input from:
 - 🔐 [Security Policy](SECURITY.md)
 
 ---
-
-*This README is a living document. Last reviewed: October 2025*
